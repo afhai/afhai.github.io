@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://afhai.github.io/sitemap/sitemap.txt
